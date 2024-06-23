@@ -10,5 +10,8 @@ Many renders have similar-looking duplicates of the same object from different a
 
 If you have any questions, please don't hesitate to send me a message as a discussion post on this repository, or to the following eMail address: mriley.texture.inquiries@gmail.com
 
+## How Were These Made?
+If you'd like to know how these sprites were made, please take a look at [the wiki](https://github.com/malcolmriley/unused-renders/wiki)! Inside you'll find a tutorialized guide explaining my methods.
+
 ---
 The resources in this repository are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), as per the [License](LICENSE) included.
